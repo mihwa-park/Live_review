@@ -2,4 +2,3 @@
 ![moneyola](https://github.com/user-attachments/assets/b6c18a49-3f59-4714-9b62-9867b8148828)
 ![유럽중앙은행](https://github.com/user-attachments/assets/8fac1f98-b3d3-4674-a985-022beee04cf6)
 ![mobick_consol](https://github.com/user-attachments/assets/82c58cfa-a30a-4325-96bd-c5986f35389c)
-![playground](https://github.com/user-attachments/assets/933f7612-9327-4402-b784-1bb9e8e2cdad)
